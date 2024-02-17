@@ -4,7 +4,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/ambelovsky/gosf-socketio/transport"
+	"github.com/LukasAuerbeck/gosf-socketio/transport"
 )
 
 const (
